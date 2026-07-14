@@ -18,6 +18,7 @@ A modern, full-stack web application designed for seamless daily attendance logg
 
 <img width="1907" height="845" alt="image" src="https://github.com/user-attachments/assets/d50b012b-6019-417b-b5fe-755368093bd6" />
 
+
 ## 🛠️ Tech Stack
 * **Frontend:** Next.js (App Router), React, Tailwind CSS
 * **Backend:** Supabase (PostgreSQL)
@@ -29,3 +30,27 @@ A modern, full-stack web application designed for seamless daily attendance logg
    ```bash
    git clone [https://github.com/YOUR_GITHUB_USERNAME/attendlog.git](https://github.com/YOUR_GITHUB_USERNAME/attendlog.git)
    cd attendlog
+   ```
+
+2. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+
+3. **Environment Setup:**
+   Create a `.env.local` file in the root directory and add your Supabase credentials:
+   ```env
+   NEXT_PUBLIC_SUPABASE_URL=your_supabase_project_url
+   NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
+   ```
+
+4. **Run the development server:**
+   ```bash
+   npm run dev
+   ```
+   Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## 📝 License
+This project is licensed under the MIT License.
+
+
