@@ -14,8 +14,9 @@ A modern, full-stack web application designed for seamless daily attendance logg
 * **Historical Logs Dashboard:** A dedicated `/logs` route pulls real-time records from the database, styling them dynamically based on attendance status.
 
 ## 📸 Screenshots
-[Drag and drop a screenshot of your main form here]
-[Drag and drop a screenshot of your Logs table here]
+<img width="1912" height="865" alt="image" src="https://github.com/user-attachments/assets/4735662a-08e8-4d9d-8951-dd8d2b04f94c" />
+
+<img width="1907" height="845" alt="image" src="https://github.com/user-attachments/assets/d50b012b-6019-417b-b5fe-755368093bd6" />
 
 ## 🛠️ Tech Stack
 * **Frontend:** Next.js (App Router), React, Tailwind CSS
