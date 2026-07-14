@@ -28,7 +28,7 @@ A modern, full-stack web application designed for seamless daily attendance logg
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_GITHUB_USERNAME/attendlog.git](https://github.com/YOUR_GITHUB_USERNAME/attendlog.git)
+   git clone [https://github.com/Afrinnazir10/attendlog.git](https://github.com/YOUR_GITHUB_USERNAME/attendlog.git)
    cd attendlog
    ```
 
